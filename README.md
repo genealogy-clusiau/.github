@@ -1,6 +1,6 @@
 # Clusiau Genealogy
 
-<img src="./images/logo.png" alt="Clusiau Genealogy logo" width="96">
+<img src="../images/logo.png" alt="Clusiau Genealogy logo" width="96">
 
 GEDCOM-based family genealogy archive for the Clusiau family.
 
@@ -8,7 +8,7 @@ This organization maintains a private builder repository for source GEDCOM proce
 
 ## Public family tree
 
-* [Browse the public family tree](https://genealogy-clusiau.github.io/genealogy-tree/)
+* [Browse the public family tree](https://genealogy-clusiau.github.io/genealogy-tree/viewer/gedcom-viewer.html)
 * [View the public tree repository](https://github.com/genealogy-clusiau/genealogy-tree)
 
 ## Repository structure
